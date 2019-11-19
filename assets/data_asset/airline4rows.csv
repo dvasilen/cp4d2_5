@@ -1,0 +1,5 @@
+Year,Month,DayofMonth,DayOfWeek,DepTime,CRSDepTime,ArrTime,CRSArrTime,UniqueCarrier,FlightNum,TailNum,ActualElapsedTime,CRSElapsedTime,AirTime,ArrDelay,DepDelay,Origin,Dest,Distance,TaxiIn,TaxiOut,Cancelled,CancellationCode,Diverted,CarrierDelay,WeatherDelay,NASDelay,SecurityDelay,LateAircraftDelay
+2004,3,11,4,1135,1145,1258,1308,NW,1943,N8945E,83,83,69,-10,-10,VPS,MEM,369,4,10,0,,0,0,0,0,0,0
+2004,3,14,7,,1255,,1337,OH,5663,N625CA,,42,,,,SDF,CVG,83,0,0,1,A,0,0,0,0,0,0
+2004,3,16,2,,2250,,2320,OH,5317,N958CA,,90,,,,ATL,EVV,350,0,0,1,B,0,0,0,0,0,0
+2004,3,15,1,2153,2155,38,13,OH,5525,N369CA,165,138,116,25,-2,CVG,SRQ,812,4,45,0,,0,0,0,25,0,0
