@@ -1,0 +1,2 @@
+# Test R script
+sessionInfo()
